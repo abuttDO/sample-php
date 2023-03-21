@@ -1,4 +1,5 @@
 <?php
+require __DIR__ . '/public/src/vendor/autoload.php';
 
 use Cowsayphp\Farm;
 
